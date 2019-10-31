@@ -43,7 +43,7 @@ gem "paperclip", "~> 4.2"
 gem 'aws-sdk', '< 2' # because Paperclip sucks
 
 # Parser Tools
-gem 'nokogiri', '~> 1.6.6.2'
+gem 'nokogiri', '~> 1.9.1'
 gem 'docx-html'
 gem 'redcarpet'
 
