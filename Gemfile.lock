@@ -250,7 +250,7 @@ GEM
       rails (>= 3.1)
       react-source (~> 0.13)
     react-source (0.13.3)
-    redcarpet (3.3.4)
+    redcarpet (3.5.1)
     ref (2.0.0)
     rolify (4.1.1)
     rollbar (2.12.0)
